@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976483483188",
+    "project_id": "acruzt-kotlin-auth",
+    "storage_bucket": "acruzt-kotlin-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976483483188:android:d45aeff8b7fc9a04d59461",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7aJxe6_c46Tl0SU64kb-Wcf0pZ9t-Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976483483188:android:6af15b719f22ea4fd59461",
+        "android_client_info": {
+          "package_name": "com.example.mycalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7aJxe6_c46Tl0SU64kb-Wcf0pZ9t-Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
